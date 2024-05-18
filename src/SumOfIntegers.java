@@ -1,6 +1,6 @@
 public class SumOfIntegers {
     public static void main(String[] args) {
-        int n = 5;
+        int n = 9;
         int result = sum1toN(n);
         System.out.println("Sum of the first " + n + " positive integers is: " + result);
     }
